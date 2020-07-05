@@ -13,3 +13,5 @@ https://aistudio.baidu.com/aistudio/learnmap
 
 已经掌握python的同学可以直接从“深度学习CV从入门到实践”开始学习
 
+团队github传送门：
+https://github.com/ouwing233/CSUxCNU-baiduAI-Smartcar
